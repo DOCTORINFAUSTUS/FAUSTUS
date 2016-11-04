@@ -1,0 +1,6 @@
+send thhis to mail! 
+
+Sending mail using nodejs || nosdejs watch change on file
+Now sending mail !!!!Watching This
+
+// Please note that multiple watch are fired because some editors create temp files before saving
